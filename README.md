@@ -51,8 +51,9 @@ Insert your Trimui SDcard into your pc<br/>
 From the file explorer window in step 2, select and copy the files:<br/>
 - setup_heroes_of_might_and_magic_3_complete_4.0_(3.2)_gog_0.1-(xxxxx).exe
 - setup_heroes_of_might_and_magic_3_complete_4.0_(3.2)_gog_0.1_(77075)-1.bin
-Copy these to:
-` 'Root SDcard'/Data/ports/vcmi/ `
+<br/>
+Copy these to:<br/>
+` 'Root SDcard'/Data/ports/vcmi/ `<br/>
 Once done, safely eject the sdcard and insert it back into you Trimui
 
 ### Step 4) First time starting
@@ -69,13 +70,13 @@ Fear not, after following the above steps, the final step will be to copy over a
 Power down again your Trimui<br/>
 Insert the SDcard into your pc<br/>
 Download the file "shortcutsConfig.json" From the root of this repository<br/>
-Copy the file to:
-` 'Root SDcard'/Data/ports/vcmi/config/ `
-Overwrite when asked!
+Copy the file to:<br/>
+` 'Root SDcard'/Data/ports/vcmi/config/ `<br/>
+Overwrite when asked!<br/>
 Safely remove the SDcard from your pc and insert it again.<br/>
 Start VCMI again...
 
 ### Step 6) Start + Select 
 Whenever the game is started you will have to press **'start'** + **'select'** at the same time once to get the button behaviour correctly.
-
+<br/>
 Enjoy and credits to everyone at portmaster for making this classic possible on the Trimui
