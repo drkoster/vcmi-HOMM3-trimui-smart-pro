@@ -51,8 +51,9 @@ Insert your Trimui SDcard into your pc<br/>
 From the file explorer window in step 2, select and copy the files:<br/>
 - setup_heroes_of_might_and_magic_3_complete_4.0_(3.2)_gog_0.1-(xxxxx).exe
 - setup_heroes_of_might_and_magic_3_complete_4.0_(3.2)_gog_0.1_(77075)-1.bin
+<!-- end of the list -->
 <br/>
-Copy these to:<br/>
+Copy these files to:<br/>
 ` 'Root SDcard'/Data/ports/vcmi/ `<br/>
 Once done, safely eject the sdcard and insert it back into you Trimui
 
@@ -70,7 +71,7 @@ Fear not, after following the above steps, the final step will be to copy over a
 Power down again your Trimui<br/>
 Insert the SDcard into your pc<br/>
 Download the file "shortcutsConfig.json" From the root of this repository<br/>
-Copy the file to:<br/>
+Copy this file to:<br/>
 ` 'Root SDcard'/Data/ports/vcmi/config/ `<br/>
 Overwrite when asked!<br/>
 Safely remove the SDcard from your pc and insert it again.<br/>
