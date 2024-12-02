@@ -1,5 +1,3 @@
-"# vcmi-HOMM3-trimui-smart-pro" 
-
 ## Trimui Smart Pro VCMI(HOMM3) portmaster instructions
 
 This repo was created to help setup HOMM3 using Portmaster on the Trimui Smart pro.
@@ -53,11 +51,8 @@ Insert your Trimui SDcard into your pc<br/>
 From the file explorer window in step 2, select and copy the files:<br/>
 - setup_heroes_of_might_and_magic_3_complete_4.0_(3.2)_gog_0.1-(xxxxx).exe
 - setup_heroes_of_might_and_magic_3_complete_4.0_(3.2)_gog_0.1_(77075)-1.bin
-<br/>
 Copy these to:
-```
-'Root SDcard'/Data/ports/vcmi/
-```
+` 'Root SDcard'/Data/ports/vcmi/ `
 Once done, safely eject the sdcard and insert it back into you Trimui
 
 ### Step 4) First time starting
@@ -75,9 +70,7 @@ Power down again your Trimui<br/>
 Insert the SDcard into your pc<br/>
 Download the file "shortcutsConfig.json" From the root of this repository<br/>
 Copy the file to:
-```
-'Root SDcard'/Data/ports/vcmi/config/
-```
+` 'Root SDcard'/Data/ports/vcmi/config/ `
 Overwrite when asked!
 Safely remove the SDcard from your pc and insert it again.<br/>
 Start VCMI again...
