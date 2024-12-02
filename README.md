@@ -24,13 +24,13 @@ https://github.com/kloptops/Portmaster-misc
 Before you start check the following:
 - [ ] Purchase a license at GOG for HOMM3 complete editon
 - [ ] 3GB of free storage on SDcard
-- [ ] (Optional but highly recommended) Have Crossmix for trimui installed
+- [ ] (Optional but highly recommended) Have Crossmix for Trimui installed
 - [ ] Have portmaster up to date (Start portmaster and allow updates)
 
 <!-- GETTING STARTED -->
 ## Getting started
 
-Follow the below steps 1 by 1 and enjoy Heroes of Might and Magic 3 complete edition on the Trimui Smart pro.
+Follow the below steps 1 by 1 and enjoy Heroes of Might and Magic 3 complete edition on the Trimui Smart Pro.
 
 ### Step 1) Install VCMI
 Start portmaster and install VCMI by kloptops. Once done, exit portmaster and power off your Trimui Smart Pro.<br/>
@@ -58,16 +58,20 @@ Copy these files to:<br/>
 ` 'Root SDcard'/Data/ports/vcmi/ `<br/>
 Once done, safely eject the sdcard and insert it back into you Trimui
 
-### Step 4) First time starting
-After powering on your Trimui, navigate to the Emulators/Ports section under emulators,<br/>
+### Step 4) Emucleaner (optional)
+Whenever adding or installing games on the Trimui, it's recommended to run 'EmuCleaner'.
+You can find it in the 'Apps' section.
+
+### Step 5) First time starting
+Navigate to the Emulators/Ports section under emulators,<br/>
 Now start VCMI and wait, as the initial installation is now taking place.<br/>
-!! This process can take a few minutes, be patient !!<br/>
+**!! This process can take a few minutes, be patient !!**<br/>
 If all gone well, you will now be presented with the main menu of HOMM3, hooray!!<br/>
 But you will soon notice the controls are wrong...<br/>
 Keep Left shoulder button pressed and use the left analog stick to move the cursor to 'Exit'<br/>
 While pressing the Left shoulder button, press the Y button on the D-pad to exit the game.<br/>
 
-### Step 5) Transfer shortcutConfig
+### Step 6) Transfer shortcutConfig
 Fear not, after following the above steps, the final step will be to copy over a new shortcut config file.<br/>
 Power down again your Trimui<br/>
 Insert the SDcard into your pc<br/>
@@ -78,7 +82,8 @@ Overwrite when asked!<br/>
 Safely remove the SDcard from your pc and insert it again.<br/>
 Start VCMI again...
 
-### Step 6) Start + Select 
+### Step 7) Start + Select 
 Whenever the game is started you will have to press **'start'** + **'select'** at the same time once to get the button behaviour correctly.
+It seems to be a toggle for button mapping behaviour although I could not find the details about it.
 <br/>
 Enjoy and credits to everyone at portmaster for making this classic possible on the Trimui
