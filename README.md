@@ -78,11 +78,11 @@ Copy the file to:
 ```
 'Root SDcard'/Data/ports/vcmi/config/
 ```
-Overwrite when asked!<br/>
+Overwrite when asked!
 Safely remove the SDcard from your pc and insert it again.<br/>
 Start VCMI again...
 
 ### Step 6) Start + Select 
-Whenever the game is started you will have to press **'start'** + **'select'* at the same time once to get the button behaviour correctly.
+Whenever the game is started you will have to press **'start'** + **'select'** at the same time once to get the button behaviour correctly.
 
-Enjoy and credits to everyone at portmaster for making this possible on the Trimui
+Enjoy and credits to everyone at portmaster for making this classic possible on the Trimui
